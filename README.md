@@ -1,7 +1,7 @@
 Stonehedge Cookbook: Lintel
 ===========================
 
-Use this Chef Cookbook to configure the Stonehedge Lintel instances.
+Use this Chef Cookbook to configure Stonehedge Lintel instances.
 
 
 Components
